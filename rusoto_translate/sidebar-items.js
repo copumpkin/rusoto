@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["TranslateTextError","Errors returned by TranslateText"]],"struct":[["TranslateClient","A client for the Amazon Translate API."],["TranslateTextRequest",""],["TranslateTextResponse",""]],"trait":[["Translate","Trait representing the capabilities of the Amazon Translate API. Amazon Translate clients implement this trait."]]});
